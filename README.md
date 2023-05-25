@@ -4,9 +4,8 @@
 🔭 I’m currently on an internships a Junior DevOps Engineer<br>
 👯 I’m looking to collaborate on Cloud Projects<br>
 🤝 I’m looking for help with Cloud solutions<br>
-🌱 I’m currently learning Azure DevOps<br>
-💬 Ask me about anything <br>
-⚡ Fun fact, I bench 100kg
+🌱 I’m currently learning Azure DevOps solutions and Kafka<br>
+💬 Contact me to talk about anything related to Cloud and DevOps practices <br>
 
 
 # 💻 Tech Stack:
