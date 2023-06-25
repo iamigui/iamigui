@@ -1,10 +1,9 @@
 ### Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently on an internships a Junior DevOps Engineer<br>
+🔭 I’m currently working as Junior DevOps Engineer<br>
 👯 I’m looking to collaborate on Cloud Projects<br>
-🤝 I’m looking for help with Cloud solutions<br>
-🌱 I’m currently learning Azure DevOps solutions and Kafka<br>
+🌱 I’m currently learning Azure DevOps solutions, Kafka and Golang<br>
 💬 Contact me to talk about anything related to Cloud and DevOps practices <br>
 
 
