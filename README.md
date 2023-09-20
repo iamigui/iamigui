@@ -3,7 +3,7 @@
 # 💫 About Me:
 🔭 I’m currently working as Junior DevOps Engineer<br>
 👯 I’m looking to collaborate on Cloud Projects<br>
-🌱 I’m currently learning Azure DevOps solutions, Kafka and Golang<br>
+🌱 I’m currently developing my skills to certificate as an AWS Professional DevOps Enginer and Kubernetes Certified Administrator<br>
 💬 Contact me to talk about anything related to Cloud and DevOps practices <br>
 
 
