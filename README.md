@@ -2,7 +2,6 @@
 
 # 💫 About Me:
 🔭 I’m currently working as DevOps Engineer<br>
-💬 Contact me to talk about anything related to Cloud and DevOps practices <br>
 
 
 # 💻 Tech Stack:
